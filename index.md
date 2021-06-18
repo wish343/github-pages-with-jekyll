@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hello World"
 ---
 
 <h1>Let me show you around<h1>
