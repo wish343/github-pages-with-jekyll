@@ -15,6 +15,6 @@ theme: jekyll-theme-cayman
 
 github:
   zip_url: assets/download.zip
-  tar_url: assets/download.tar
+  tar_url: assets/download.tar.gz
 
 show_downloads: true
