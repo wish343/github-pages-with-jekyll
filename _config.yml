@@ -10,13 +10,11 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username:  wish343 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: daattali/beautiful-jekyll@5.0.0
 
 github:
   zip_url: assets/download.zip
   tar_url: assets/download.tar.gz
 
 show_downloads: true
-
-plugins:
-  jekyll-include-cache
