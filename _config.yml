@@ -17,3 +17,6 @@ github:
   tar_url: assets/download.tar.gz
 
 show_downloads: true
+
+plugins:
+  jekyll-include-cache
